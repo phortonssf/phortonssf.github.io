@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Peter Horton's CV
+title: John Doe's CV
 ---
 
 ![Harold](./media/21.png){:.avatar}
@@ -19,9 +19,7 @@ Computer Science Student and Technology aficionado
 
 ## Currently
 
-I'm a final-year computer science student at the University Computers, due to finish around September 2016. During my bachelor's degree I've taken up an interest in mobile technologies and artificial intelligence.
-
-## Education
+Going through the Soft Stack Factory coding program.
 
 `2012-15`
 __University of Computers__ Bachelor's degree in Computer Science
@@ -30,6 +28,7 @@ __University of Computers__ Bachelor's degree in Computer Science
 
 * HTML and CSS
 * Javascript
+* AngularJS
 
 ## Projects
 
@@ -61,4 +60,6 @@ __Roasted Bean Coffe House__
 * <i class="fa fa-github"></i> <a href="http://github.com/">my account</a><br />
 * <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a><br />
 * <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/">SO Account</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/">scholar</a>
+* <i class="fa fa-google"></i> <a href="http://schol
+* ar.google.com/">scholar</a>
+
